@@ -1,0 +1,16 @@
+.pokemon {
+   display: inline-block;
+   text-align: center;
+}
+
+.pokemon img {
+   display: block;
+
+}
+
+@media (min-width: 320) and (max-width: 480px) {
+   body {
+      background-color: rgb(180, 121, 49);
+      text-align: center;
+   }
+}
